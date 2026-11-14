@@ -3,4 +3,4 @@
 
 .logo-stage,.wordmark img{mix-blend-mode:lighten}
 
-header nav{display:flex;align-items:center;gap:22px}header nav a{display:inline-flex;align-items:center;min-height:44px}#services{padding:0 0 76px;scroll-margin-top:24px}@media(max-width:640px){header nav{gap:16px}.header-link{font-size:13px}#services{padding-bottom:48px}}
+header nav{display:flex;align-items:center;gap:22px}header nav a{display:inline-flex;align-items:center;min-height:44px}#services{padding:76px 0 0;scroll-margin-top:24px}@media(max-width:640px){header nav{gap:16px}.header-link{font-size:13px}#services{padding:48px 0 0}}
