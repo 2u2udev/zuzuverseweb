@@ -1,6 +1,6 @@
 const filters = document.querySelector('.project-filters');
-const cards = [...document.querySelectorAll('.project')];
-const count = document.querySelector('.count');
+const cards = [...document.querySelectorAll('#projects .project')];
+const count = document.querySelector('#projects .count');
 
 filters.addEventListener('click', (event) => {
   const button = event.target.closest('button[data-filter]');

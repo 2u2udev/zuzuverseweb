@@ -2,3 +2,5 @@
 .wordmark{display:block;line-height:0}.wordmark img{display:block;width:100px;height:auto}footer .wordmark img{width:76px}.project-heading{display:flex;align-items:center;gap:18px;min-height:64px}.project-heading img{flex-shrink:0;width:64px;height:64px;object-fit:contain;border-radius:12px}.project-filters{display:flex;flex-wrap:wrap;gap:8px;margin-bottom:28px}.project-filters button{min-height:44px;padding:10px 17px;border:1px solid var(--line);border-radius:5px;background:transparent;color:var(--muted);font:inherit;font-size:13px;cursor:pointer}.project-filters button[aria-pressed=true]{background:var(--accent);border-color:var(--accent);color:var(--bg)}.project-filters button:hover{border-color:var(--accent)}.project-filters button:focus-visible{outline:2px solid var(--accent);outline-offset:3px}[hidden]{display:none!important}
 
 .logo-stage,.wordmark img{mix-blend-mode:lighten}
+
+header nav{display:flex;align-items:center;gap:22px}header nav a{display:inline-flex;align-items:center;min-height:44px}#services{padding:0 0 76px;scroll-margin-top:24px}@media(max-width:640px){header nav{gap:16px}.header-link{font-size:13px}#services{padding-bottom:48px}}
